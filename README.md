@@ -24,13 +24,13 @@ To get started with this application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/otp-sms-php.git
+   git clone https://github.com/kazashim/otp-sms-php.git
    cd otp-sms-php
    ```
 
 1. Open the `index.php` file in your web browser. You should see the OTP request form.
 
-2. Fill out the recipient phone number and click the "Send OTP" button to request an OTP.
+2. Fill out the recipient's phone number and click the "Send OTP" button to request an OTP.
 
 3. You will be redirected to the OTP verification page. Enter the OTP received via SMS and click "Verify OTP."
 
@@ -68,7 +68,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Secure your application with OTPs!
 ```
-
-To include a screenshot, replace `screenshot.png` with the actual filename of your application's screenshot.
-
-Make sure to replace placeholders with your specific project details, such as the repository URL and your API key. This README provides essential information for users to understand how to use your OTP PHP application.

@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $api_key = 'YOUR_API_KEY_HERE';
     
     // Define the API URL
-    $api_url = 'https://gateway.excitesms.tech/api/v3/sms/send';
+    $api_url = 'https://gateway.excitesms.com/api/v3/sms/send';
     
     // Create an array with the SMS data
     $sms_data = [
